@@ -8,7 +8,7 @@ Takes two bdays in the form of MM/DD/YYYY and determines whether they occurred o
 ###url_search.sh 
 Gives the number of times keywords appear on each webpage listed in a file. It takes as input a file containing a list of urls
 as well as any number of keywords, and outputs each webpage, followed by the number of times each keyword appears on it. </br>
-``url_search.sh file keyword1``
+``url_search.sh url.txt keyword1``
 
 ###spy.sh
 Description: Monitors when users log in and out of a machine. Once killed, it creates a summary of how many times each user logged
